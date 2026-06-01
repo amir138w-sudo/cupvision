@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = 8835794310:AAFobUtDcsFclBbc68A-pEl0ld5IWVDBm1c
 
 users = {}
 
